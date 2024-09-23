@@ -51,7 +51,7 @@ body{
 }
 
 .card{
-    background-color: #1b1f24;
+    background-color: #1b1f24 !important;
     min-width: 100px;
     max-height: 500px;
     margin-bottom: 50px;
